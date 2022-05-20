@@ -55,6 +55,8 @@
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
+    "@babel/preset-env": "^7.1.6",
+    "@babel/runtime": "^7.16.0",
     "@graphql-codegen/cli": "^2.3.0",
     "@graphql-codegen/fragment-matcher": "1.17.8",
     "@graphql-codegen/introspection": "1.17.8",
